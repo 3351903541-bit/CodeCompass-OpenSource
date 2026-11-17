@@ -1,0 +1,15 @@
+{
+  "snapshot_version": "B-D03-1",
+  "repo": "mahmoud/boltons",
+  "retrieved_at": "2026-10-16T00:00:00+00:00",
+  "is_fixture": true,
+  "issues": [
+    {
+      "number": 999999999,
+      "title": "Synthetic test: iterutils iteration behavior",
+      "body": "iterutils",
+      "html_url": "https://github.com/mahmoud/boltons/issues/999999999",
+      "state": "open"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "python-slugify": {
+    "commit": "35aca63fc2672cba2c739ff6dff685a4f26a4f9a",
+    "targets": [
+      "slugify/_legacy.py::slugify@105",
+      "slugify/_legacy.py::smart_truncate@68"
+    ],
+    "selected": [
+      "dyn_70cee7c25780551bf8f6",
+      "dyn_9174c1d55e8d5bee75e2",
+      "dyn_a296f13f2a3c8a6144e2"
+    ],
+    "units": [
+      {
+        "id": "dyn_a296f13f2a3c8a6144e2"
+      },
+      {
+        "id": "dyn_9174c1d55e8d5bee75e2"
+      },
+      {
+        "id": "dyn_2de119ea71972b4e9bfb"
+      },
+      {
+        "id": "dyn_a1937b37ce8ba09efc55"
+      },
+      {
+        "id": "dyn_2248dadbfc6d24fe7689"
+      },
+      {
+        "id": "dyn_2976c2a5f27792a589a8"
+      },
+      {
+        "id": "dyn_bb820aff93beb9768360"
+      },
+      {
+        "id": "dyn_144a561af554204d6c49"
+      },
+      {
+        "id": "dyn_70cee7c25780551bf8f6"
+      },
+      {
+        "id": "dyn_ef2fa1bee32fa069a994"
+      },
+      {
+        "id": "dyn_6b2feadfa77e669bcefc"
+      }
+    ],
+    "methods": {
+      "R6": {
+        "order": [
+          "dyn_9174c1d55e8d5bee75e2",
+          "dyn_70cee7c25780551bf8f6",
+          "dyn_a296f13f2a3c8a6144e2"
+        ]
+      }
+    },
+    "stage1": {
+      "objective": 37.466499999999996
+    }
+  },
+  "schedule": {
+    "commit": "82a43db1b938d8fdf60103bd41f329e06c8d3651",
+    "targets": [
+      "schedule/__init__.py::Scheduler.run_pending@89",
+      "schedule/__init__.py::Scheduler._run_job@172",
+      "schedule/__init__.py::Job.run@674"
+    ],
+    "selected": [
+      "dyn_1f60369b7bcc3c7e8914",
+      "dyn_4c8a1a365f90bf7909f8",
+      "dyn_61ccf7af1d7e7b307c69",
+      "dyn_c340fe9df8458506c178",
+      "dyn_c744033fb4f1183461c1",
+      "dyn_20827cc4e00a40616f3c",
+      "dyn_77fd6082cd2687ce7ec7",
+      "dyn_bc6be372040e50c0e0af"
+    ],
+    "units": [
+      {
+        "id": "dyn_20827cc4e00a40616f3c"
+      },
+      {
+        "id": "dyn_c340fe9df8458506c178"
+      },
+      {
+        "id": "dyn_77fd6082cd2687ce7ec7"
+      },
+      {
+        "id": "dyn_61ccf7af1d7e7b307c69"
+      },
+      {
+        "id": "dyn_bc6be372040e50c0e0af"
+      },
+      {
+        "id": "dyn_c744033fb4f1183461c1"
+      },
+      {
+        "id": "dyn_c1671df4a5c4febce425"
+      },
+      {
+        "id": "dyn_4c8a1a365f90bf7909f8"
+      },
+      {
+        "id": "dyn_62ef4d526b0a26e857d8"
+      },
+      {
+        "id": "dyn_25cf72b72e57dd58fda3"
+      },
+      {
+        "id": "dyn_61498a8173060b8dfc0a"
+      },
+      {
+        "id": "dyn_c07fab8e06dc447e9e41"
+      },
+      {
+        "id": "dyn_57258390950ec00a660d"
+      },
+      {
+        "id": "dyn_aaaedbbf7052c1cf536a"
+      },
+      {
+        "id": "dyn_1f60369b7bcc3c7e8914"
+      }
+    ],
+    "methods": {
+      "R6": {
+        "order": [
+          "dyn_61ccf7af1d7e7b307c69",
+          "dyn_c744033fb4f1183461c1",
+          "dyn_c340fe9df8458506c178",
+          "dyn_4c8a1a365f90bf7909f8",
+          "dyn_bc6be372040e50c0e0af",
+          "dyn_20827cc4e00a40616f3c",
+          "dyn_1f60369b7bcc3c7e8914",
+          "dyn_77fd6082cd2687ce7ec7"
+        ]
+      }
+    },
+    "stage1": {
+      "objective": 67.96700000000001
+    }
+  },
+  "boltons": {
+    "commit": "4e5faa3d7e4008d89e0d8bf1ea87b6d9a061a16d",
+    "targets": [
+      "boltons/iterutils.py::unique@820",
+      "boltons/iterutils.py::unique_iter@834"
+    ],
+    "selected": [
+      "dyn_ed6b1e206e9a6bbba0b9",
+      "dyn_de3db3317d160677033b",
+      "dyn_2c20453a66f55bfddf45",
+      "dyn_e80247be45768a451305"
+    ],
+    "units": [
+      {
+        "id": "dyn_2c20453a66f55bfddf45"
+      },
+      {
+        "id": "dyn_e80247be45768a451305"
+      },
+      {
+        "id": "dyn_de3db3317d160677033b"
+      },
+      {
+        "id": "dyn_d5ede4a462f54d585f23"
+      },
+      {
+        "id": "dyn_10e9265d41b3731dd4fb"
+      },
+      {
+        "id": "dyn_6801f3d19f698763444e"
+      },
+      {
+        "id": "dyn_4bc9100cb66f3728ea05"
+      },
+      {
+        "id": "dyn_3267f3e61369f9b502b2"
+      },
+      {
+        "id": "dyn_31abf150260b36fe95da"
+      },
+      {
+        "id": "dyn_d9a4b7362e4c7fd48197"
+      },
+      {
+        "id": "dyn_211ac428e67d75ee0795"
+      },
+      {
+        "id": "dyn_ed6b1e206e9a6bbba0b9"
+      }
+    ],
+    "methods": {
+      "R6": {
+        "order": [
+          "dyn_de3db3317d160677033b",
+          "dyn_ed6b1e206e9a6bbba0b9",
+          "dyn_e80247be45768a451305",
+          "dyn_2c20453a66f55bfddf45"
+        ]
+      }
+    },
+    "stage1": {
+      "objective": 41.956125
+    }
+  },
+  "itsdangerous": {
+    "commit": "672971d66a2ef9f85151e53283113f33d642dabd",
+    "targets": [
+      "src/itsdangerous/serializer.py::Serializer.dump@322",
+      "src/itsdangerous/serializer.py::Serializer.load@345"
+    ],
+    "selected": [
+      "dyn_4dd14fa95f80c57bedf7",
+      "dyn_60b5d0c0b55e0b23c87e",
+      "dyn_7ce74c7b149db7ecb3c8",
+      "dyn_ec10c9c4de0657d68dbf",
+      "dyn_4232b0e919c850b467cf",
+      "dyn_e8c276d99cbe1d320240"
+    ],
+    "units": [
+      {
+        "id": "dyn_e8c276d99cbe1d320240"
+      },
+      {
+        "id": "dyn_4232b0e919c850b467cf"
+      },
+      {
+        "id": "dyn_7ce74c7b149db7ecb3c8"
+      },
+      {
+        "id": "dyn_ec10c9c4de0657d68dbf"
+      },
+      {
+        "id": "dyn_29b0e50e163dae52c2bd"
+      },
+      {
+        "id": "dyn_e358f8d7d2f94a1047dd"
+      },
+      {
+        "id": "dyn_f5f8fc94cd26d857a542"
+      },
+      {
+        "id": "dyn_dcfa3b06f11fc46b1c4c"
+      },
+      {
+        "id": "dyn_6d8b3c1647b9b04f2d36"
+      },
+      {
+        "id": "dyn_4dd14fa95f80c57bedf7"
+      },
+      {
+        "id": "dyn_94112e9cfebd3e8af403"
+      },
+      {
+        "id": "dyn_cf605179636f2a02eb42"
+      },
+      {
+        "id": "dyn_969dcd38da94aa1bc671"
+      },
+      {
+        "id": "dyn_aa5e640e9df726a608ab"
+      },
+      {
+        "id": "dyn_60b5d0c0b55e0b23c87e"
+      }
+    ],
+    "methods": {
+      "R6": {
+        "order": [
+          "dyn_7ce74c7b149db7ecb3c8",
+          "dyn_ec10c9c4de0657d68dbf",
+          "dyn_60b5d0c0b55e0b23c87e",
+          "dyn_4dd14fa95f80c57bedf7",
+          "dyn_e8c276d99cbe1d320240",
+          "dyn_4232b0e919c850b467cf"
+        ]
+      }
+    },
+    "stage1": {
+      "objective": 46.959875
+    }
+  }
+}
